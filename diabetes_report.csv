@@ -1,0 +1,9 @@
+Feature,Value,Prediction
+Pregnancies,3.0,You are Diabetic
+Glucose,120.0,You are Diabetic
+BloodPressure,70.0,You are Diabetic
+SkinThickness,20.0,You are Diabetic
+Insulin,79.0,You are Diabetic
+BMI,20.0,You are Diabetic
+DiabetesPedigreeFunction,0.47,You are Diabetic
+Age,33.0,You are Diabetic

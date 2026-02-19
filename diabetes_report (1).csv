@@ -1,0 +1,9 @@
+Feature,Value,Prediction
+Pregnancies,8.0,You are healthy
+Glucose,12.0,You are healthy
+BloodPressure,99.0,You are healthy
+SkinThickness,41.0,You are healthy
+Insulin,336.0,You are healthy
+BMI,65.0,You are healthy
+DiabetesPedigreeFunction,0.78,You are healthy
+Age,27.0,You are healthy
